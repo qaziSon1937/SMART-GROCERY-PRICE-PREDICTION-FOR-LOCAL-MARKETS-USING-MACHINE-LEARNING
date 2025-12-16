@@ -1,0 +1,1353 @@
+Week,Item,Weekly_Avg_Price_PKR,Season,Demand_Index
+2023-00,Tomato,120.74,Winter,0.98
+2023-00,Onion,62.63,Winter,0.66
+2023-00,Potato,66.34,Winter,0.95
+2023-00,Apple,168.2,Winter,0.99
+2023-00,Rice,153.37,Winter,0.68
+2023-00,Wheat Flour,107.43,Winter,0.81
+2023-00,Sugar,101.27,Winter,0.72
+2023-00,Eggs,193.83,Winter,0.75
+2023-00,Chicken,388.98,Winter,0.91
+2023-00,Milk,92.57,Winter,0.62
+2023-00,Cooking Oil,350.86,Winter,0.67
+2023-00,Tea,943.97,Winter,0.78
+2023-00,Soap,94.26,Winter,0.8
+2023-01,Tomato,87.73,Winter,0.81
+2023-01,Onion,65.83,Winter,0.67
+2023-01,Potato,44.49,Winter,0.68
+2023-01,Apple,106.44,Winter,0.73
+2023-01,Rice,164.5,Winter,0.74
+2023-01,Wheat Flour,113.65,Winter,0.82
+2023-01,Sugar,133.53,Winter,0.99
+2023-01,Eggs,206.66,Winter,0.68
+2023-01,Chicken,308.72,Winter,0.63
+2023-01,Milk,105.57,Winter,0.65
+2023-01,Cooking Oil,347.3,Winter,0.63
+2023-01,Tea,867.54,Winter,0.73
+2023-01,Soap,114.48,Winter,0.79
+2023-02,Tomato,101.48,Winter,0.89
+2023-02,Onion,85.6,Winter,0.8
+2023-02,Potato,55.86,Winter,0.77
+2023-02,Apple,138.23,Winter,0.8
+2023-02,Rice,181.17,Winter,0.7
+2023-02,Wheat Flour,80.8,Winter,0.63
+2023-02,Sugar,103.14,Winter,0.66
+2023-02,Eggs,196.05,Winter,0.67
+2023-02,Chicken,372.07,Winter,0.82
+2023-02,Milk,115.28,Winter,0.77
+2023-02,Cooking Oil,540.01,Winter,0.94
+2023-02,Tea,783.47,Winter,0.69
+2023-02,Soap,81.61,Winter,0.74
+2023-03,Tomato,111.16,Winter,0.88
+2023-03,Onion,79.66,Winter,0.99
+2023-03,Potato,41.38,Winter,0.61
+2023-03,Apple,149.81,Winter,0.8
+2023-03,Rice,160.45,Winter,0.8
+2023-03,Wheat Flour,120.35,Winter,0.7
+2023-03,Sugar,133.72,Winter,0.89
+2023-03,Eggs,226.85,Winter,0.85
+2023-03,Chicken,406.36,Winter,0.93
+2023-03,Milk,105.87,Winter,0.67
+2023-03,Cooking Oil,326.12,Winter,0.61
+2023-03,Tea,754.65,Winter,0.69
+2023-03,Soap,99.39,Winter,0.75
+2023-04,Tomato,85.13,Winter,0.66
+2023-04,Onion,95.27,Winter,0.95
+2023-04,Potato,58.86,Winter,0.86
+2023-04,Apple,141.85,Winter,0.7
+2023-04,Rice,188.86,Winter,0.96
+2023-04,Wheat Flour,107.49,Winter,0.74
+2023-04,Sugar,157.61,Winter,0.96
+2023-04,Eggs,178.22,Winter,0.63
+2023-04,Chicken,385.33,Winter,0.96
+2023-04,Milk,89.46,Winter,0.66
+2023-04,Cooking Oil,443.64,Winter,0.88
+2023-04,Tea,893.18,Winter,0.69
+2023-04,Soap,111.77,Winter,0.9
+2023-05,Tomato,108.49,Winter,0.83
+2023-05,Onion,58.33,Winter,0.75
+2023-05,Potato,57.97,Winter,0.76
+2023-05,Apple,171.94,Winter,0.85
+2023-05,Rice,190.69,Winter,0.8
+2023-05,Wheat Flour,110.73,Winter,0.89
+2023-05,Sugar,170.48,Winter,0.98
+2023-05,Eggs,226.25,Winter,0.75
+2023-05,Chicken,448.9,Winter,0.94
+2023-05,Milk,113.26,Winter,0.75
+2023-05,Cooking Oil,424.09,Winter,0.82
+2023-05,Tea,1096.83,Winter,0.88
+2023-05,Soap,127.37,Winter,1
+2023-06,Tomato,93.03,Winter,0.81
+2023-06,Onion,87.6,Winter,0.88
+2023-06,Potato,51.69,Winter,0.72
+2023-06,Apple,199.61,Winter,0.97
+2023-06,Rice,178.67,Winter,0.8
+2023-06,Wheat Flour,146.47,Winter,0.92
+2023-06,Sugar,118.8,Winter,0.74
+2023-06,Eggs,162.59,Winter,0.61
+2023-06,Chicken,364.46,Winter,0.82
+2023-06,Milk,75.68,Winter,0.61
+2023-06,Cooking Oil,427.13,Winter,0.74
+2023-06,Tea,804.93,Winter,0.69
+2023-06,Soap,80.09,Winter,0.63
+2023-07,Tomato,101.68,Winter,0.85
+2023-07,Onion,87.25,Winter,0.99
+2023-07,Potato,55.26,Winter,0.71
+2023-07,Apple,119.05,Winter,0.63
+2023-07,Rice,150.11,Winter,0.67
+2023-07,Wheat Flour,104.39,Winter,0.7
+2023-07,Sugar,116.47,Winter,0.71
+2023-07,Eggs,294.05,Winter,0.9
+2023-07,Chicken,317.12,Winter,0.7
+2023-07,Milk,145.97,Winter,0.9
+2023-07,Cooking Oil,359.11,Winter,0.64
+2023-07,Tea,914.79,Winter,0.79
+2023-07,Soap,94.48,Winter,0.85
+2023-08,Tomato,87.42,Winter,0.62
+2023-08,Onion,80.32,Winter,0.94
+2023-08,Potato,50.63,Winter,0.67
+2023-08,Apple,130.05,Winter,0.83
+2023-08,Rice,214.49,Winter,0.83
+2023-08,Wheat Flour,107.81,Winter,0.82
+2023-08,Sugar,129.84,Winter,0.75
+2023-08,Eggs,166.1,Winter,0.73
+2023-08,Chicken,272.32,Winter,0.61
+2023-08,Milk,137.68,Winter,0.88
+2023-08,Cooking Oil,543.41,Winter,0.95
+2023-08,Tea,783.98,Winter,0.67
+2023-08,Soap,119.95,Winter,0.92
+2023-09,Tomato,109.14,Spring,0.91
+2023-09,Onion,85.03,Spring,0.97
+2023-09,Potato,72.37,Spring,0.9
+2023-09,Apple,171.72,Spring,0.96
+2023-09,Rice,197.79,Spring,0.96
+2023-09,Wheat Flour,86.04,Spring,0.6
+2023-09,Sugar,140.66,Spring,0.83
+2023-09,Eggs,201.48,Spring,0.78
+2023-09,Chicken,378.26,Spring,0.9
+2023-09,Milk,161.51,Spring,0.92
+2023-09,Cooking Oil,366.57,Spring,0.82
+2023-09,Tea,1068,Spring,0.96
+2023-09,Soap,99.13,Spring,0.9
+2023-10,Tomato,82.46,Spring,0.64
+2023-10,Onion,74.57,Spring,0.93
+2023-10,Potato,42.41,Spring,0.63
+2023-10,Apple,181.94,Spring,0.98
+2023-10,Rice,209.14,Spring,0.9
+2023-10,Wheat Flour,124.13,Spring,0.82
+2023-10,Sugar,144.73,Spring,0.96
+2023-10,Eggs,172.41,Spring,0.79
+2023-10,Chicken,256.32,Spring,0.65
+2023-10,Milk,137.67,Spring,0.83
+2023-10,Cooking Oil,462.76,Spring,0.75
+2023-10,Tea,1065.22,Spring,0.99
+2023-10,Soap,108.63,Spring,0.99
+2023-11,Tomato,90.45,Spring,0.82
+2023-11,Onion,89.81,Spring,0.81
+2023-11,Potato,63.67,Spring,0.85
+2023-11,Apple,200.47,Spring,0.96
+2023-11,Rice,129.94,Spring,0.68
+2023-11,Wheat Flour,99.94,Spring,0.74
+2023-11,Sugar,170.95,Spring,0.99
+2023-11,Eggs,238.65,Spring,0.81
+2023-11,Chicken,289.32,Spring,0.67
+2023-11,Milk,157.24,Spring,0.93
+2023-11,Cooking Oil,607.41,Spring,0.95
+2023-11,Tea,707.1,Spring,0.61
+2023-11,Soap,88.01,Spring,0.66
+2023-12,Tomato,93.68,Spring,0.75
+2023-12,Onion,69.71,Spring,0.71
+2023-12,Potato,60.81,Spring,0.95
+2023-12,Apple,193.1,Spring,0.98
+2023-12,Rice,152.31,Spring,0.7
+2023-12,Wheat Flour,132.89,Spring,0.84
+2023-12,Sugar,113.4,Spring,0.87
+2023-12,Eggs,226.61,Spring,0.87
+2023-12,Chicken,418.46,Spring,0.91
+2023-12,Milk,136.72,Spring,0.82
+2023-12,Cooking Oil,459.07,Spring,0.76
+2023-12,Tea,932.52,Spring,0.69
+2023-12,Soap,74.73,Spring,0.61
+2023-13,Tomato,81.67,Spring,0.77
+2023-13,Onion,81.75,Spring,0.74
+2023-13,Potato,59.71,Spring,0.85
+2023-13,Apple,181.46,Spring,0.98
+2023-13,Rice,210.39,Spring,0.99
+2023-13,Wheat Flour,95.44,Spring,0.73
+2023-13,Sugar,94.62,Spring,0.65
+2023-13,Eggs,164.7,Spring,0.66
+2023-13,Chicken,274.11,Spring,0.74
+2023-13,Milk,134.21,Spring,0.79
+2023-13,Cooking Oil,318.76,Spring,0.62
+2023-13,Tea,763.18,Spring,0.71
+2023-13,Soap,79.43,Spring,0.75
+2023-14,Tomato,104.13,Spring,0.88
+2023-14,Onion,98.6,Spring,0.97
+2023-14,Potato,47.64,Spring,0.71
+2023-14,Apple,122.62,Spring,0.68
+2023-14,Rice,148.77,Spring,0.79
+2023-14,Wheat Flour,137.54,Spring,0.9
+2023-14,Sugar,99.79,Spring,0.7
+2023-14,Eggs,220.53,Spring,0.81
+2023-14,Chicken,269.88,Spring,0.78
+2023-14,Milk,117.71,Spring,0.75
+2023-14,Cooking Oil,326.73,Spring,0.73
+2023-14,Tea,964.47,Spring,0.96
+2023-14,Soap,109.4,Spring,0.87
+2023-15,Tomato,98.47,Spring,0.81
+2023-15,Onion,80.12,Spring,0.9
+2023-15,Potato,50.31,Spring,0.75
+2023-15,Apple,146,Spring,0.83
+2023-15,Rice,134.18,Spring,0.66
+2023-15,Wheat Flour,84.69,Spring,0.66
+2023-15,Sugar,129.36,Spring,0.96
+2023-15,Eggs,197.28,Spring,0.81
+2023-15,Chicken,295.17,Spring,0.76
+2023-15,Milk,169.03,Spring,0.95
+2023-15,Cooking Oil,446.13,Spring,0.87
+2023-15,Tea,971.81,Spring,0.82
+2023-15,Soap,91.09,Spring,0.67
+2023-16,Tomato,80.87,Spring,0.77
+2023-16,Onion,70.43,Spring,0.84
+2023-16,Potato,56.25,Spring,0.83
+2023-16,Apple,104.4,Spring,0.62
+2023-16,Rice,144.9,Spring,0.65
+2023-16,Wheat Flour,113.34,Spring,0.87
+2023-16,Sugar,118.81,Spring,0.84
+2023-16,Eggs,238.62,Spring,0.97
+2023-16,Chicken,468.36,Spring,0.99
+2023-16,Milk,116.8,Spring,0.67
+2023-16,Cooking Oil,459.34,Spring,0.9
+2023-16,Tea,1003.8,Spring,0.92
+2023-16,Soap,78.78,Spring,0.67
+2023-17,Tomato,101.12,Spring,0.81
+2023-17,Onion,90.03,Spring,0.95
+2023-17,Potato,51.59,Spring,0.75
+2023-17,Apple,131.8,Spring,0.72
+2023-17,Rice,210.75,Spring,0.96
+2023-17,Wheat Flour,115.99,Spring,0.82
+2023-17,Sugar,142.38,Spring,0.98
+2023-17,Eggs,205.01,Spring,0.73
+2023-17,Chicken,350.2,Spring,0.81
+2023-17,Milk,161.7,Spring,0.92
+2023-17,Cooking Oil,428.18,Spring,0.9
+2023-17,Tea,894.59,Spring,0.83
+2023-17,Soap,111.99,Spring,0.93
+2023-18,Tomato,103.02,Spring,0.94
+2023-18,Onion,60.9,Spring,0.66
+2023-18,Potato,62.68,Spring,0.89
+2023-18,Apple,170.65,Spring,0.82
+2023-18,Rice,130.97,Spring,0.74
+2023-18,Wheat Flour,149.8,Spring,0.98
+2023-18,Sugar,135.17,Spring,0.83
+2023-18,Eggs,225.1,Spring,0.95
+2023-18,Chicken,405.08,Spring,0.83
+2023-18,Milk,115.5,Spring,0.66
+2023-18,Cooking Oil,497.47,Spring,0.84
+2023-18,Tea,1235.13,Spring,0.97
+2023-18,Soap,79.33,Spring,0.65
+2023-19,Tomato,102.13,Spring,0.76
+2023-19,Onion,55.47,Spring,0.73
+2023-19,Potato,64.44,Spring,0.97
+2023-19,Apple,128.39,Spring,0.74
+2023-19,Rice,174.14,Spring,0.78
+2023-19,Wheat Flour,68.84,Spring,0.67
+2023-19,Sugar,124.88,Spring,0.74
+2023-19,Eggs,227.48,Spring,0.85
+2023-19,Chicken,363.72,Spring,1
+2023-19,Milk,137.95,Spring,0.84
+2023-19,Cooking Oil,474.85,Spring,0.96
+2023-19,Tea,742.02,Spring,0.68
+2023-19,Soap,75.45,Spring,0.63
+2023-20,Tomato,86.48,Spring,0.78
+2023-20,Onion,78.73,Spring,0.82
+2023-20,Potato,39.1,Spring,0.67
+2023-20,Apple,138.14,Spring,0.76
+2023-20,Rice,135.44,Spring,0.66
+2023-20,Wheat Flour,96.5,Spring,0.69
+2023-20,Sugar,121.05,Spring,0.87
+2023-20,Eggs,199.86,Spring,0.7
+2023-20,Chicken,286.84,Spring,0.7
+2023-20,Milk,138.23,Spring,0.76
+2023-20,Cooking Oil,392.72,Spring,0.68
+2023-20,Tea,636.61,Spring,0.63
+2023-20,Soap,71.64,Spring,0.61
+2023-21,Tomato,108.31,Spring,0.96
+2023-21,Onion,70.38,Spring,0.74
+2023-21,Potato,47.13,Spring,0.71
+2023-21,Apple,125.73,Spring,0.76
+2023-21,Rice,218.18,Spring,0.98
+2023-21,Wheat Flour,100.54,Spring,0.66
+2023-21,Sugar,163.34,Spring,0.92
+2023-21,Eggs,163.6,Spring,0.61
+2023-21,Chicken,275.25,Spring,0.7
+2023-21,Milk,139.25,Spring,0.93
+2023-21,Cooking Oil,357.16,Spring,0.71
+2023-21,Tea,1020.34,Spring,0.97
+2023-21,Soap,89.43,Spring,0.82
+2023-22,Tomato,120.15,Summer,0.93
+2023-22,Onion,86.65,Summer,0.87
+2023-22,Potato,57.64,Summer,0.97
+2023-22,Apple,103.4,Summer,0.62
+2023-22,Rice,179.92,Summer,0.9
+2023-22,Wheat Flour,97,Summer,0.76
+2023-22,Sugar,100.59,Summer,0.74
+2023-22,Eggs,227.64,Summer,0.79
+2023-22,Chicken,416.23,Summer,0.97
+2023-22,Milk,107.28,Summer,0.7
+2023-22,Cooking Oil,404.69,Summer,0.62
+2023-22,Tea,1023.77,Summer,0.91
+2023-22,Soap,69.84,Summer,0.63
+2023-23,Tomato,109.69,Summer,0.77
+2023-23,Onion,83.33,Summer,0.93
+2023-23,Potato,60.32,Summer,0.84
+2023-23,Apple,113.41,Summer,0.64
+2023-23,Rice,169.47,Summer,0.82
+2023-23,Wheat Flour,143.25,Summer,0.89
+2023-23,Sugar,159.41,Summer,0.94
+2023-23,Eggs,205.77,Summer,0.8
+2023-23,Chicken,333.84,Summer,0.83
+2023-23,Milk,101.53,Summer,0.61
+2023-23,Cooking Oil,609.67,Summer,0.99
+2023-23,Tea,1033.74,Summer,0.79
+2023-23,Soap,109.52,Summer,0.93
+2023-24,Tomato,89.05,Summer,0.84
+2023-24,Onion,71.41,Summer,0.88
+2023-24,Potato,60.71,Summer,0.89
+2023-24,Apple,167.42,Summer,0.92
+2023-24,Rice,177.68,Summer,0.85
+2023-24,Wheat Flour,88.06,Summer,0.61
+2023-24,Sugar,102.87,Summer,0.61
+2023-24,Eggs,285.29,Summer,0.92
+2023-24,Chicken,346.4,Summer,0.74
+2023-24,Milk,149.99,Summer,0.85
+2023-24,Cooking Oil,564.18,Summer,0.99
+2023-24,Tea,1124.1,Summer,0.9
+2023-24,Soap,65.64,Summer,0.64
+2023-25,Tomato,75.14,Summer,0.69
+2023-25,Onion,49.83,Summer,0.61
+2023-25,Potato,61.48,Summer,0.87
+2023-25,Apple,177.24,Summer,0.98
+2023-25,Rice,186.25,Summer,0.79
+2023-25,Wheat Flour,99.97,Summer,0.67
+2023-25,Sugar,131.5,Summer,0.81
+2023-25,Eggs,158.72,Summer,0.67
+2023-25,Chicken,328.63,Summer,0.74
+2023-25,Milk,156.21,Summer,0.99
+2023-25,Cooking Oil,353.76,Summer,0.66
+2023-25,Tea,887.66,Summer,0.69
+2023-25,Soap,95.31,Summer,0.83
+2023-26,Tomato,101.53,Summer,0.95
+2023-26,Onion,97.23,Summer,0.98
+2023-26,Potato,74.15,Summer,0.92
+2023-26,Apple,144.19,Summer,0.76
+2023-26,Rice,145.65,Summer,0.7
+2023-26,Wheat Flour,101.46,Summer,0.69
+2023-26,Sugar,101.07,Summer,0.63
+2023-26,Eggs,238.25,Summer,0.84
+2023-26,Chicken,358.12,Summer,0.74
+2023-26,Milk,161.72,Summer,0.95
+2023-26,Cooking Oil,512.96,Summer,0.86
+2023-26,Tea,1104.07,Summer,0.87
+2023-26,Soap,112.9,Summer,0.9
+2023-27,Tomato,107.13,Summer,0.9
+2023-27,Onion,78.82,Summer,0.93
+2023-27,Potato,49.28,Summer,0.71
+2023-27,Apple,175.63,Summer,0.99
+2023-27,Rice,190.11,Summer,0.82
+2023-27,Wheat Flour,99.85,Summer,0.64
+2023-27,Sugar,138.45,Summer,0.74
+2023-27,Eggs,261.06,Summer,0.97
+2023-27,Chicken,364.52,Summer,0.88
+2023-27,Milk,131.32,Summer,0.83
+2023-27,Cooking Oil,410.65,Summer,0.95
+2023-27,Tea,1269.59,Summer,0.99
+2023-27,Soap,82.02,Summer,0.61
+2023-28,Tomato,88.72,Summer,0.73
+2023-28,Onion,74.88,Summer,0.78
+2023-28,Potato,62.72,Summer,1
+2023-28,Apple,136.02,Summer,0.92
+2023-28,Rice,158.1,Summer,0.69
+2023-28,Wheat Flour,101.78,Summer,0.71
+2023-28,Sugar,117.51,Summer,0.66
+2023-28,Eggs,223.41,Summer,0.86
+2023-28,Chicken,297.06,Summer,0.71
+2023-28,Milk,125.98,Summer,0.69
+2023-28,Cooking Oil,269.84,Summer,0.61
+2023-28,Tea,1096.98,Summer,0.79
+2023-28,Soap,93.88,Summer,0.67
+2023-29,Tomato,126,Summer,0.94
+2023-29,Onion,84.29,Summer,0.85
+2023-29,Potato,63.26,Summer,0.79
+2023-29,Apple,102.64,Summer,0.65
+2023-29,Rice,178.53,Summer,0.8
+2023-29,Wheat Flour,112.33,Summer,0.83
+2023-29,Sugar,109.48,Summer,0.78
+2023-29,Eggs,142.02,Summer,0.63
+2023-29,Chicken,266.62,Summer,0.72
+2023-29,Milk,153.76,Summer,0.94
+2023-29,Cooking Oil,493.23,Summer,0.99
+2023-29,Tea,947.22,Summer,0.8
+2023-29,Soap,80.14,Summer,0.6
+2023-30,Tomato,93.93,Summer,0.81
+2023-30,Onion,48.43,Summer,0.63
+2023-30,Potato,51.76,Summer,0.65
+2023-30,Apple,140.43,Summer,0.68
+2023-30,Rice,141.28,Summer,0.64
+2023-30,Wheat Flour,129.76,Summer,0.97
+2023-30,Sugar,117.53,Summer,0.82
+2023-30,Eggs,263.1,Summer,0.92
+2023-30,Chicken,412.35,Summer,0.93
+2023-30,Milk,140.98,Summer,0.86
+2023-30,Cooking Oil,460.49,Summer,0.89
+2023-30,Tea,859.27,Summer,0.69
+2023-30,Soap,103.35,Summer,0.73
+2023-31,Tomato,98.77,Summer,0.8
+2023-31,Onion,83.38,Summer,0.89
+2023-31,Potato,58.27,Summer,0.87
+2023-31,Apple,98.49,Summer,0.61
+2023-31,Rice,191.26,Summer,0.89
+2023-31,Wheat Flour,108.46,Summer,0.77
+2023-31,Sugar,95.68,Summer,0.62
+2023-31,Eggs,262.89,Summer,0.83
+2023-31,Chicken,398.01,Summer,0.95
+2023-31,Milk,143.84,Summer,0.77
+2023-31,Cooking Oil,357.91,Summer,0.68
+2023-31,Tea,996.02,Summer,0.85
+2023-31,Soap,126.67,Summer,0.96
+2023-32,Tomato,79.22,Summer,0.7
+2023-32,Onion,87.51,Summer,0.95
+2023-32,Potato,61.36,Summer,0.81
+2023-32,Apple,113.06,Summer,0.76
+2023-32,Rice,154.33,Summer,0.7
+2023-32,Wheat Flour,107.62,Summer,0.65
+2023-32,Sugar,134.24,Summer,0.78
+2023-32,Eggs,221.31,Summer,0.93
+2023-32,Chicken,327.79,Summer,0.7
+2023-32,Milk,107.76,Summer,0.67
+2023-32,Cooking Oil,412.4,Summer,0.89
+2023-32,Tea,1294.9,Summer,0.92
+2023-32,Soap,117.73,Summer,0.95
+2023-33,Tomato,70.8,Summer,0.62
+2023-33,Onion,93.46,Summer,0.97
+2023-33,Potato,54.54,Summer,0.8
+2023-33,Apple,116.4,Summer,0.66
+2023-33,Rice,176.07,Summer,0.81
+2023-33,Wheat Flour,132.26,Summer,0.87
+2023-33,Sugar,116.24,Summer,0.87
+2023-33,Eggs,182,Summer,0.64
+2023-33,Chicken,354.53,Summer,0.67
+2023-33,Milk,162.61,Summer,0.94
+2023-33,Cooking Oil,462.23,Summer,0.85
+2023-33,Tea,1129.96,Summer,0.83
+2023-33,Soap,105.57,Summer,0.86
+2023-34,Tomato,104.86,Summer,0.86
+2023-34,Onion,60.77,Summer,0.62
+2023-34,Potato,62,Summer,0.76
+2023-34,Apple,172.56,Summer,0.9
+2023-34,Rice,191.18,Summer,0.76
+2023-34,Wheat Flour,130.25,Summer,0.9
+2023-34,Sugar,125.86,Summer,0.77
+2023-34,Eggs,163.27,Summer,0.6
+2023-34,Chicken,342.55,Summer,0.75
+2023-34,Milk,117.67,Summer,0.78
+2023-34,Cooking Oil,416.85,Summer,0.75
+2023-34,Tea,1016.42,Summer,0.79
+2023-34,Soap,98.43,Summer,0.95
+2023-35,Tomato,94.23,Autumn,0.74
+2023-35,Onion,72.66,Autumn,0.76
+2023-35,Potato,75.55,Autumn,0.91
+2023-35,Apple,183.57,Autumn,0.89
+2023-35,Rice,198.68,Autumn,0.97
+2023-35,Wheat Flour,118.99,Autumn,0.97
+2023-35,Sugar,105.15,Autumn,0.7
+2023-35,Eggs,184.15,Autumn,0.72
+2023-35,Chicken,374.21,Autumn,0.84
+2023-35,Milk,114.72,Autumn,0.71
+2023-35,Cooking Oil,421.81,Autumn,0.87
+2023-35,Tea,846.02,Autumn,0.81
+2023-35,Soap,89.43,Autumn,0.7
+2023-36,Tomato,109.48,Autumn,0.79
+2023-36,Onion,75.82,Autumn,0.85
+2023-36,Potato,67.08,Autumn,0.84
+2023-36,Apple,117.5,Autumn,0.68
+2023-36,Rice,154.96,Autumn,0.76
+2023-36,Wheat Flour,104.01,Autumn,0.71
+2023-36,Sugar,122.65,Autumn,0.77
+2023-36,Eggs,217.78,Autumn,0.78
+2023-36,Chicken,307.84,Autumn,0.67
+2023-36,Milk,101.02,Autumn,0.64
+2023-36,Cooking Oil,430.18,Autumn,0.86
+2023-36,Tea,964.39,Autumn,0.76
+2023-36,Soap,95.85,Autumn,0.8
+2023-37,Tomato,117.39,Autumn,0.89
+2023-37,Onion,99.14,Autumn,1
+2023-37,Potato,48.41,Autumn,0.63
+2023-37,Apple,153.99,Autumn,0.96
+2023-37,Rice,138.01,Autumn,0.74
+2023-37,Wheat Flour,105.66,Autumn,0.81
+2023-37,Sugar,132.81,Autumn,0.86
+2023-37,Eggs,212.07,Autumn,0.73
+2023-37,Chicken,389.45,Autumn,0.86
+2023-37,Milk,142.38,Autumn,0.89
+2023-37,Cooking Oil,528.83,Autumn,0.98
+2023-37,Tea,964.89,Autumn,0.88
+2023-37,Soap,78.02,Autumn,0.78
+2023-38,Tomato,103.25,Autumn,0.74
+2023-38,Onion,73.03,Autumn,0.69
+2023-38,Potato,50.44,Autumn,0.66
+2023-38,Apple,158.9,Autumn,0.85
+2023-38,Rice,175.71,Autumn,0.9
+2023-38,Wheat Flour,133.9,Autumn,0.88
+2023-38,Sugar,92.28,Autumn,0.72
+2023-38,Eggs,215.2,Autumn,0.97
+2023-38,Chicken,290.86,Autumn,0.72
+2023-38,Milk,118.88,Autumn,0.81
+2023-38,Cooking Oil,472.14,Autumn,0.8
+2023-38,Tea,1081.52,Autumn,0.95
+2023-38,Soap,119.31,Autumn,0.92
+2023-39,Tomato,89.88,Autumn,0.76
+2023-39,Onion,74.84,Autumn,0.88
+2023-39,Potato,68.99,Autumn,0.93
+2023-39,Apple,157.66,Autumn,0.94
+2023-39,Rice,209.54,Autumn,0.91
+2023-39,Wheat Flour,98.24,Autumn,0.8
+2023-39,Sugar,91.44,Autumn,0.63
+2023-39,Eggs,153.93,Autumn,0.65
+2023-39,Chicken,380.27,Autumn,0.77
+2023-39,Milk,117.66,Autumn,0.8
+2023-39,Cooking Oil,376.66,Autumn,0.69
+2023-39,Tea,1031.02,Autumn,0.86
+2023-39,Soap,118.69,Autumn,1
+2023-40,Tomato,92.88,Autumn,0.88
+2023-40,Onion,58.51,Autumn,0.62
+2023-40,Potato,73.44,Autumn,1
+2023-40,Apple,160.13,Autumn,0.85
+2023-40,Rice,152.48,Autumn,0.77
+2023-40,Wheat Flour,105.36,Autumn,0.77
+2023-40,Sugar,143.45,Autumn,0.89
+2023-40,Eggs,130.99,Autumn,0.7
+2023-40,Chicken,266.53,Autumn,0.65
+2023-40,Milk,102.61,Autumn,0.7
+2023-40,Cooking Oil,546.88,Autumn,0.92
+2023-40,Tea,907.88,Autumn,0.82
+2023-40,Soap,114.17,Autumn,0.94
+2023-41,Tomato,76.53,Autumn,0.73
+2023-41,Onion,70.92,Autumn,0.79
+2023-41,Potato,59,Autumn,0.91
+2023-41,Apple,192.08,Autumn,0.98
+2023-41,Rice,186.52,Autumn,0.78
+2023-41,Wheat Flour,141.92,Autumn,0.94
+2023-41,Sugar,148.79,Autumn,0.96
+2023-41,Eggs,234.49,Autumn,0.85
+2023-41,Chicken,334.63,Autumn,0.89
+2023-41,Milk,140.18,Autumn,0.87
+2023-41,Cooking Oil,291.16,Autumn,0.6
+2023-41,Tea,1101.53,Autumn,0.9
+2023-41,Soap,102,Autumn,0.91
+2023-42,Tomato,92.77,Autumn,0.67
+2023-42,Onion,56.28,Autumn,0.61
+2023-42,Potato,67.28,Autumn,0.99
+2023-42,Apple,135.77,Autumn,0.75
+2023-42,Rice,143.82,Autumn,0.65
+2023-42,Wheat Flour,124.21,Autumn,0.81
+2023-42,Sugar,130.38,Autumn,0.99
+2023-42,Eggs,262.13,Autumn,0.84
+2023-42,Chicken,406.54,Autumn,0.9
+2023-42,Milk,118.93,Autumn,0.74
+2023-42,Cooking Oil,379,Autumn,0.69
+2023-42,Tea,874.06,Autumn,0.85
+2023-42,Soap,94.08,Autumn,0.7
+2023-43,Tomato,114.1,Autumn,0.86
+2023-43,Onion,80.56,Autumn,0.93
+2023-43,Potato,60.44,Autumn,0.78
+2023-43,Apple,183.87,Autumn,0.89
+2023-43,Rice,174.94,Autumn,0.82
+2023-43,Wheat Flour,158.45,Autumn,0.97
+2023-43,Sugar,109.43,Autumn,0.69
+2023-43,Eggs,254.88,Autumn,0.94
+2023-43,Chicken,387.74,Autumn,0.8
+2023-43,Milk,135.43,Autumn,0.83
+2023-43,Cooking Oil,505.56,Autumn,0.9
+2023-43,Tea,831.18,Autumn,0.78
+2023-43,Soap,84.66,Autumn,0.68
+2023-44,Tomato,103.77,Autumn,0.89
+2023-44,Onion,82.99,Autumn,0.91
+2023-44,Potato,40.87,Autumn,0.6
+2023-44,Apple,159.67,Autumn,0.75
+2023-44,Rice,143.65,Autumn,0.66
+2023-44,Wheat Flour,118.04,Autumn,0.75
+2023-44,Sugar,136.81,Autumn,0.89
+2023-44,Eggs,211.9,Autumn,0.77
+2023-44,Chicken,238.59,Autumn,0.6
+2023-44,Milk,122.59,Autumn,0.64
+2023-44,Cooking Oil,415.46,Autumn,0.79
+2023-44,Tea,996.04,Autumn,0.82
+2023-44,Soap,110.99,Autumn,0.84
+2023-45,Tomato,111.52,Autumn,0.93
+2023-45,Onion,57.33,Autumn,0.63
+2023-45,Potato,65.94,Autumn,0.88
+2023-45,Apple,149.69,Autumn,0.81
+2023-45,Rice,156.76,Autumn,0.77
+2023-45,Wheat Flour,99.67,Autumn,0.69
+2023-45,Sugar,172,Autumn,0.97
+2023-45,Eggs,228.21,Autumn,0.77
+2023-45,Chicken,308.95,Autumn,0.76
+2023-45,Milk,148.27,Autumn,0.75
+2023-45,Cooking Oil,404.19,Autumn,0.74
+2023-45,Tea,698.12,Autumn,0.61
+2023-45,Soap,104.01,Autumn,0.98
+2023-46,Tomato,92.23,Autumn,0.77
+2023-46,Onion,69.74,Autumn,0.79
+2023-46,Potato,41.07,Autumn,0.63
+2023-46,Apple,177.63,Autumn,0.89
+2023-46,Rice,140.78,Autumn,0.66
+2023-46,Wheat Flour,133.09,Autumn,0.86
+2023-46,Sugar,106.9,Autumn,0.63
+2023-46,Eggs,173.06,Autumn,0.7
+2023-46,Chicken,350.39,Autumn,0.7
+2023-46,Milk,140.99,Autumn,0.91
+2023-46,Cooking Oil,318.17,Autumn,0.8
+2023-46,Tea,1140.3,Autumn,0.96
+2023-46,Soap,94.93,Autumn,0.87
+2023-47,Tomato,87.48,Autumn,0.62
+2023-47,Onion,66.87,Autumn,0.7
+2023-47,Potato,50.78,Autumn,0.83
+2023-47,Apple,166.51,Autumn,0.99
+2023-47,Rice,140.92,Autumn,0.66
+2023-47,Wheat Flour,95.12,Autumn,0.7
+2023-47,Sugar,109.12,Autumn,0.65
+2023-47,Eggs,260.31,Autumn,0.89
+2023-47,Chicken,266.39,Autumn,0.63
+2023-47,Milk,131.73,Autumn,0.79
+2023-47,Cooking Oil,424.86,Autumn,0.76
+2023-47,Tea,1003.36,Autumn,0.82
+2023-47,Soap,98.74,Autumn,0.78
+2023-48,Tomato,95.82,Winter,0.91
+2023-48,Onion,58.24,Winter,0.73
+2023-48,Potato,62.89,Winter,0.81
+2023-48,Apple,189.23,Winter,0.95
+2023-48,Rice,166.47,Winter,0.78
+2023-48,Wheat Flour,115.34,Winter,0.8
+2023-48,Sugar,116.3,Winter,0.86
+2023-48,Eggs,296.5,Winter,0.99
+2023-48,Chicken,342.81,Winter,0.81
+2023-48,Milk,136.69,Winter,0.85
+2023-48,Cooking Oil,436.28,Winter,0.76
+2023-48,Tea,999.8,Winter,0.88
+2023-48,Soap,94.2,Winter,0.73
+2023-49,Tomato,106.56,Winter,0.96
+2023-49,Onion,72.46,Winter,0.66
+2023-49,Potato,57.5,Winter,0.95
+2023-49,Apple,157.81,Winter,0.8
+2023-49,Rice,214.13,Winter,0.87
+2023-49,Wheat Flour,97.99,Winter,0.67
+2023-49,Sugar,93.45,Winter,0.61
+2023-49,Eggs,226.55,Winter,0.81
+2023-49,Chicken,350.68,Winter,0.89
+2023-49,Milk,143.75,Winter,0.94
+2023-49,Cooking Oil,443.3,Winter,0.73
+2023-49,Tea,966.52,Winter,0.93
+2023-49,Soap,110.58,Winter,0.93
+2023-50,Tomato,84.14,Winter,0.67
+2023-50,Onion,60.75,Winter,0.7
+2023-50,Potato,54.11,Winter,0.74
+2023-50,Apple,159.71,Winter,0.85
+2023-50,Rice,199.29,Winter,0.94
+2023-50,Wheat Flour,96.16,Winter,0.65
+2023-50,Sugar,113.58,Winter,0.73
+2023-50,Eggs,233.26,Winter,0.94
+2023-50,Chicken,392.02,Winter,0.93
+2023-50,Milk,128.36,Winter,0.81
+2023-50,Cooking Oil,363.67,Winter,0.69
+2023-50,Tea,1180.1,Winter,0.91
+2023-50,Soap,117,Winter,0.87
+2023-51,Tomato,103.61,Winter,0.82
+2023-51,Onion,70.11,Winter,0.78
+2023-51,Potato,54,Winter,0.75
+2023-51,Apple,126.99,Winter,0.64
+2023-51,Rice,220.06,Winter,0.97
+2023-51,Wheat Flour,131.24,Winter,0.94
+2023-51,Sugar,148.27,Winter,0.92
+2023-51,Eggs,220.66,Winter,0.99
+2023-51,Chicken,353.02,Winter,0.71
+2023-51,Milk,119.23,Winter,0.65
+2023-51,Cooking Oil,384.18,Winter,0.7
+2023-51,Tea,866.46,Winter,0.79
+2023-51,Soap,74.48,Winter,0.72
+2023-52,Tomato,86.49,Winter,0.62
+2023-52,Onion,75.42,Winter,0.67
+2023-52,Potato,45.31,Winter,0.7
+2023-52,Apple,163.78,Winter,0.93
+2023-52,Rice,153.53,Winter,0.65
+2023-52,Wheat Flour,133.62,Winter,0.83
+2023-52,Sugar,113.99,Winter,0.77
+2023-52,Eggs,215.02,Winter,0.84
+2023-52,Chicken,401.8,Winter,0.78
+2023-52,Milk,158.07,Winter,0.88
+2023-52,Cooking Oil,392.7,Winter,0.8
+2023-52,Tea,962.19,Winter,0.86
+2023-52,Soap,114.93,Winter,0.84
+2024-01,Tomato,90.19,Winter,0.63
+2024-01,Onion,61.42,Winter,0.74
+2024-01,Potato,46.34,Winter,0.71
+2024-01,Apple,137.52,Winter,0.73
+2024-01,Rice,156.08,Winter,0.71
+2024-01,Wheat Flour,105.76,Winter,0.81
+2024-01,Sugar,131.39,Winter,0.83
+2024-01,Eggs,190.39,Winter,0.72
+2024-01,Chicken,343.17,Winter,0.85
+2024-01,Milk,118.54,Winter,0.74
+2024-01,Cooking Oil,468.86,Winter,0.88
+2024-01,Tea,817.55,Winter,0.65
+2024-01,Soap,82.62,Winter,0.76
+2024-02,Tomato,110.87,Winter,0.89
+2024-02,Onion,101.57,Winter,0.98
+2024-02,Potato,44.73,Winter,0.6
+2024-02,Apple,108.95,Winter,0.62
+2024-02,Rice,189.19,Winter,0.87
+2024-02,Wheat Flour,100.24,Winter,0.75
+2024-02,Sugar,106.46,Winter,0.77
+2024-02,Eggs,178.02,Winter,0.74
+2024-02,Chicken,391.99,Winter,0.87
+2024-02,Milk,111.94,Winter,0.6
+2024-02,Cooking Oil,558.95,Winter,0.97
+2024-02,Tea,824.55,Winter,0.65
+2024-02,Soap,78.23,Winter,0.63
+2024-03,Tomato,84.08,Winter,0.77
+2024-03,Onion,66.77,Winter,0.79
+2024-03,Potato,53.75,Winter,0.82
+2024-03,Apple,166.65,Winter,0.89
+2024-03,Rice,178.01,Winter,0.77
+2024-03,Wheat Flour,113.19,Winter,0.71
+2024-03,Sugar,134.57,Winter,0.92
+2024-03,Eggs,268.46,Winter,0.94
+2024-03,Chicken,358.56,Winter,0.83
+2024-03,Milk,141.69,Winter,0.84
+2024-03,Cooking Oil,375.48,Winter,0.67
+2024-03,Tea,747.08,Winter,0.66
+2024-03,Soap,73.38,Winter,0.61
+2024-04,Tomato,104.9,Winter,0.85
+2024-04,Onion,64.01,Winter,0.72
+2024-04,Potato,58.55,Winter,0.84
+2024-04,Apple,155.71,Winter,0.78
+2024-04,Rice,143.61,Winter,0.66
+2024-04,Wheat Flour,142.15,Winter,0.99
+2024-04,Sugar,91.97,Winter,0.62
+2024-04,Eggs,144.27,Winter,0.61
+2024-04,Chicken,368.55,Winter,0.78
+2024-04,Milk,143.31,Winter,0.98
+2024-04,Cooking Oil,518.96,Winter,0.96
+2024-04,Tea,970.15,Winter,0.72
+2024-04,Soap,94.57,Winter,0.76
+2024-05,Tomato,75.24,Winter,0.66
+2024-05,Onion,79.51,Winter,0.82
+2024-05,Potato,52.66,Winter,0.72
+2024-05,Apple,116.58,Winter,0.68
+2024-05,Rice,196.2,Winter,0.99
+2024-05,Wheat Flour,100.18,Winter,0.74
+2024-05,Sugar,130.7,Winter,0.85
+2024-05,Eggs,216.3,Winter,0.76
+2024-05,Chicken,342.48,Winter,0.68
+2024-05,Milk,120.23,Winter,0.62
+2024-05,Cooking Oil,453.55,Winter,0.99
+2024-05,Tea,1216.29,Winter,0.89
+2024-05,Soap,103.55,Winter,0.92
+2024-06,Tomato,106.53,Winter,0.92
+2024-06,Onion,65.82,Winter,0.66
+2024-06,Potato,74.33,Winter,0.99
+2024-06,Apple,140.91,Winter,0.75
+2024-06,Rice,132.47,Winter,0.68
+2024-06,Wheat Flour,124.74,Winter,0.8
+2024-06,Sugar,148.4,Winter,0.95
+2024-06,Eggs,265.6,Winter,0.91
+2024-06,Chicken,425.31,Winter,0.98
+2024-06,Milk,137.75,Winter,0.78
+2024-06,Cooking Oil,570.41,Winter,0.96
+2024-06,Tea,1009.62,Winter,0.97
+2024-06,Soap,92.52,Winter,0.79
+2024-07,Tomato,89.39,Winter,0.65
+2024-07,Onion,62.1,Winter,0.74
+2024-07,Potato,68.37,Winter,0.98
+2024-07,Apple,170.98,Winter,1
+2024-07,Rice,130.11,Winter,0.61
+2024-07,Wheat Flour,136.71,Winter,0.93
+2024-07,Sugar,151.8,Winter,0.91
+2024-07,Eggs,256.46,Winter,0.91
+2024-07,Chicken,332.32,Winter,0.8
+2024-07,Milk,106.4,Winter,0.76
+2024-07,Cooking Oil,324.78,Winter,0.64
+2024-07,Tea,1133.14,Winter,0.98
+2024-07,Soap,89.52,Winter,0.8
+2024-08,Tomato,106.37,Winter,0.88
+2024-08,Onion,57.79,Winter,0.71
+2024-08,Potato,77.65,Winter,0.97
+2024-08,Apple,137.66,Winter,0.79
+2024-08,Rice,173.37,Winter,0.86
+2024-08,Wheat Flour,121.07,Winter,0.86
+2024-08,Sugar,111.38,Winter,0.96
+2024-08,Eggs,233.66,Winter,0.85
+2024-08,Chicken,352.37,Winter,0.87
+2024-08,Milk,154.96,Winter,0.92
+2024-08,Cooking Oil,447.46,Winter,0.81
+2024-08,Tea,861.16,Winter,0.8
+2024-08,Soap,72.6,Winter,0.65
+2024-09,Tomato,96.15,Spring,0.73
+2024-09,Onion,63.33,Spring,0.8
+2024-09,Potato,47.16,Spring,0.6
+2024-09,Apple,149.87,Spring,0.9
+2024-09,Rice,144.43,Spring,0.71
+2024-09,Wheat Flour,115.35,Spring,0.73
+2024-09,Sugar,146.67,Spring,0.96
+2024-09,Eggs,259.39,Spring,0.99
+2024-09,Chicken,314.45,Spring,0.76
+2024-09,Milk,156.71,Spring,0.88
+2024-09,Cooking Oil,566.37,Spring,0.9
+2024-09,Tea,1115.83,Spring,0.88
+2024-09,Soap,111.15,Spring,0.86
+2024-10,Tomato,80.99,Spring,0.74
+2024-10,Onion,73.48,Spring,0.78
+2024-10,Potato,48.21,Spring,0.75
+2024-10,Apple,150.01,Spring,0.77
+2024-10,Rice,224.77,Spring,0.94
+2024-10,Wheat Flour,127.43,Spring,0.95
+2024-10,Sugar,112.84,Spring,0.87
+2024-10,Eggs,219.51,Spring,0.86
+2024-10,Chicken,307.58,Spring,0.73
+2024-10,Milk,130.46,Spring,0.68
+2024-10,Cooking Oil,400.3,Spring,0.71
+2024-10,Tea,854.96,Spring,0.81
+2024-10,Soap,106.53,Spring,0.93
+2024-11,Tomato,87.35,Spring,0.76
+2024-11,Onion,77.99,Spring,0.84
+2024-11,Potato,63.77,Spring,0.81
+2024-11,Apple,145.03,Spring,0.72
+2024-11,Rice,221.75,Spring,0.99
+2024-11,Wheat Flour,84.25,Spring,0.61
+2024-11,Sugar,103.49,Spring,0.71
+2024-11,Eggs,170.63,Spring,0.72
+2024-11,Chicken,343.44,Spring,0.75
+2024-11,Milk,105.04,Spring,0.72
+2024-11,Cooking Oil,353.98,Spring,0.61
+2024-11,Tea,1164.1,Spring,0.91
+2024-11,Soap,95.3,Spring,0.72
+2024-12,Tomato,75.26,Spring,0.69
+2024-12,Onion,69.88,Spring,0.79
+2024-12,Potato,62.81,Spring,0.98
+2024-12,Apple,131.43,Spring,0.63
+2024-12,Rice,139.72,Spring,0.69
+2024-12,Wheat Flour,132.26,Spring,0.91
+2024-12,Sugar,107.15,Spring,0.66
+2024-12,Eggs,240.35,Spring,0.87
+2024-12,Chicken,295,Spring,0.74
+2024-12,Milk,160.02,Spring,0.96
+2024-12,Cooking Oil,325.49,Spring,0.62
+2024-12,Tea,1172.28,Spring,0.98
+2024-12,Soap,98.86,Spring,0.7
+2024-13,Tomato,78.34,Spring,0.71
+2024-13,Onion,67.39,Spring,0.78
+2024-13,Potato,48.09,Spring,0.67
+2024-13,Apple,119.93,Spring,0.68
+2024-13,Rice,168.99,Spring,0.68
+2024-13,Wheat Flour,148.11,Spring,1
+2024-13,Sugar,130.63,Spring,0.84
+2024-13,Eggs,208.47,Spring,0.85
+2024-13,Chicken,302.36,Spring,0.66
+2024-13,Milk,150.9,Spring,0.89
+2024-13,Cooking Oil,338,Spring,0.67
+2024-13,Tea,1071.69,Spring,0.91
+2024-13,Soap,80.12,Spring,0.74
+2024-14,Tomato,86.19,Spring,0.69
+2024-14,Onion,85.66,Spring,0.94
+2024-14,Potato,46.95,Spring,0.64
+2024-14,Apple,157.34,Spring,0.86
+2024-14,Rice,148.37,Spring,0.72
+2024-14,Wheat Flour,98.41,Spring,0.62
+2024-14,Sugar,133.3,Spring,0.75
+2024-14,Eggs,280.02,Spring,0.98
+2024-14,Chicken,310.19,Spring,0.74
+2024-14,Milk,129.58,Spring,0.74
+2024-14,Cooking Oil,387.72,Spring,0.7
+2024-14,Tea,626.22,Spring,0.62
+2024-14,Soap,70.64,Spring,0.67
+2024-15,Tomato,117.42,Spring,0.83
+2024-15,Onion,82.66,Spring,0.83
+2024-15,Potato,50.64,Spring,0.74
+2024-15,Apple,196.49,Spring,0.98
+2024-15,Rice,191.35,Spring,0.79
+2024-15,Wheat Flour,88.75,Spring,0.68
+2024-15,Sugar,141.31,Spring,0.94
+2024-15,Eggs,122.04,Spring,0.63
+2024-15,Chicken,434.9,Spring,0.93
+2024-15,Milk,143.85,Spring,0.88
+2024-15,Cooking Oil,494.33,Spring,0.95
+2024-15,Tea,815.9,Spring,0.71
+2024-15,Soap,101.28,Spring,0.91
+2024-16,Tomato,79.11,Spring,0.77
+2024-16,Onion,71.15,Spring,0.69
+2024-16,Potato,51.57,Spring,0.72
+2024-16,Apple,173.32,Spring,0.94
+2024-16,Rice,164.59,Spring,0.72
+2024-16,Wheat Flour,96.71,Spring,0.67
+2024-16,Sugar,138.47,Spring,0.96
+2024-16,Eggs,252.75,Spring,0.86
+2024-16,Chicken,299.28,Spring,0.82
+2024-16,Milk,149.62,Spring,0.83
+2024-16,Cooking Oil,383.82,Spring,0.62
+2024-16,Tea,910.61,Spring,0.89
+2024-16,Soap,95.67,Spring,0.64
+2024-17,Tomato,134.17,Spring,0.97
+2024-17,Onion,86.22,Spring,0.88
+2024-17,Potato,75.91,Spring,0.88
+2024-17,Apple,190.67,Spring,0.94
+2024-17,Rice,140.96,Spring,0.74
+2024-17,Wheat Flour,139.45,Spring,0.99
+2024-17,Sugar,138.9,Spring,0.82
+2024-17,Eggs,222.26,Spring,0.8
+2024-17,Chicken,401.76,Spring,0.89
+2024-17,Milk,85.08,Spring,0.61
+2024-17,Cooking Oil,511.18,Spring,0.93
+2024-17,Tea,1180.58,Spring,0.99
+2024-17,Soap,119.11,Spring,0.95
+2024-18,Tomato,91.39,Spring,0.92
+2024-18,Onion,84.7,Spring,0.95
+2024-18,Potato,49.77,Spring,0.72
+2024-18,Apple,173.36,Spring,0.92
+2024-18,Rice,184.55,Spring,0.85
+2024-18,Wheat Flour,96.46,Spring,0.6
+2024-18,Sugar,86.05,Spring,0.62
+2024-18,Eggs,193.23,Spring,0.74
+2024-18,Chicken,310.35,Spring,0.73
+2024-18,Milk,145.8,Spring,0.91
+2024-18,Cooking Oil,359.93,Spring,0.77
+2024-18,Tea,859.51,Spring,0.75
+2024-18,Soap,123.95,Spring,0.86
+2024-19,Tomato,96.45,Spring,0.77
+2024-19,Onion,58.32,Spring,0.64
+2024-19,Potato,66.5,Spring,0.99
+2024-19,Apple,131.61,Spring,0.81
+2024-19,Rice,190.71,Spring,0.88
+2024-19,Wheat Flour,93.71,Spring,0.74
+2024-19,Sugar,107.86,Spring,0.79
+2024-19,Eggs,181.23,Spring,0.71
+2024-19,Chicken,279.53,Spring,0.63
+2024-19,Milk,139.71,Spring,0.98
+2024-19,Cooking Oil,456.93,Spring,0.85
+2024-19,Tea,913.88,Spring,0.71
+2024-19,Soap,101.64,Spring,0.84
+2024-20,Tomato,89.45,Spring,0.71
+2024-20,Onion,66.69,Spring,0.64
+2024-20,Potato,66.33,Spring,0.98
+2024-20,Apple,146.8,Spring,0.84
+2024-20,Rice,194.05,Spring,0.87
+2024-20,Wheat Flour,102.18,Spring,0.7
+2024-20,Sugar,157.28,Spring,0.98
+2024-20,Eggs,209.9,Spring,0.87
+2024-20,Chicken,307.08,Spring,0.64
+2024-20,Milk,131.54,Spring,0.9
+2024-20,Cooking Oil,440.55,Spring,0.77
+2024-20,Tea,653.42,Spring,0.6
+2024-20,Soap,99.08,Spring,0.85
+2024-21,Tomato,86.97,Spring,0.64
+2024-21,Onion,77.68,Spring,0.95
+2024-21,Potato,45,Spring,0.7
+2024-21,Apple,134.69,Spring,0.78
+2024-21,Rice,156.94,Spring,0.63
+2024-21,Wheat Flour,153.24,Spring,0.94
+2024-21,Sugar,142.92,Spring,0.82
+2024-21,Eggs,221.26,Spring,0.85
+2024-21,Chicken,291.27,Spring,0.63
+2024-21,Milk,162.66,Spring,0.97
+2024-21,Cooking Oil,438.67,Spring,0.75
+2024-21,Tea,1111.12,Spring,0.87
+2024-21,Soap,97.55,Spring,0.7
+2024-22,Tomato,111.41,Summer,0.77
+2024-22,Onion,60.85,Summer,0.63
+2024-22,Potato,54.4,Summer,0.72
+2024-22,Apple,140.03,Summer,0.8
+2024-22,Rice,148.38,Summer,0.8
+2024-22,Wheat Flour,114.36,Summer,0.7
+2024-22,Sugar,98.98,Summer,0.66
+2024-22,Eggs,254.04,Summer,0.87
+2024-22,Chicken,257.72,Summer,0.72
+2024-22,Milk,126.72,Summer,0.81
+2024-22,Cooking Oil,393.18,Summer,0.74
+2024-22,Tea,1121.25,Summer,0.97
+2024-22,Soap,100.22,Summer,0.73
+2024-23,Tomato,116.11,Summer,0.95
+2024-23,Onion,64.1,Summer,0.76
+2024-23,Potato,72.86,Summer,0.94
+2024-23,Apple,184.7,Summer,0.94
+2024-23,Rice,184.5,Summer,0.84
+2024-23,Wheat Flour,118.39,Summer,0.87
+2024-23,Sugar,86.46,Summer,0.65
+2024-23,Eggs,159.53,Summer,0.6
+2024-23,Chicken,304.45,Summer,0.66
+2024-23,Milk,84.2,Summer,0.61
+2024-23,Cooking Oil,299.65,Summer,0.69
+2024-23,Tea,915.58,Summer,0.84
+2024-23,Soap,108.91,Summer,0.98
+2024-24,Tomato,94.21,Summer,0.82
+2024-24,Onion,73.53,Summer,0.88
+2024-24,Potato,41.22,Summer,0.67
+2024-24,Apple,171.03,Summer,0.85
+2024-24,Rice,131.3,Summer,0.65
+2024-24,Wheat Flour,92.74,Summer,0.66
+2024-24,Sugar,115.89,Summer,0.68
+2024-24,Eggs,194.77,Summer,0.8
+2024-24,Chicken,312.47,Summer,0.61
+2024-24,Milk,139.94,Summer,0.88
+2024-24,Cooking Oil,307.85,Summer,0.6
+2024-24,Tea,1287.23,Summer,0.93
+2024-24,Soap,111.89,Summer,0.79
+2024-25,Tomato,77.68,Summer,0.67
+2024-25,Onion,91.62,Summer,0.95
+2024-25,Potato,63.98,Summer,0.92
+2024-25,Apple,145.39,Summer,0.68
+2024-25,Rice,127.5,Summer,0.63
+2024-25,Wheat Flour,102.08,Summer,0.63
+2024-25,Sugar,147.57,Summer,1
+2024-25,Eggs,189.09,Summer,0.73
+2024-25,Chicken,237.8,Summer,0.63
+2024-25,Milk,132.62,Summer,0.79
+2024-25,Cooking Oil,369.23,Summer,0.6
+2024-25,Tea,932.33,Summer,0.86
+2024-25,Soap,120.2,Summer,0.91
+2024-26,Tomato,81.15,Summer,0.63
+2024-26,Onion,95.29,Summer,0.9
+2024-26,Potato,63.85,Summer,0.81
+2024-26,Apple,163.18,Summer,0.9
+2024-26,Rice,137.7,Summer,0.68
+2024-26,Wheat Flour,145.25,Summer,0.9
+2024-26,Sugar,136.79,Summer,0.86
+2024-26,Eggs,193.81,Summer,0.66
+2024-26,Chicken,362.91,Summer,0.89
+2024-26,Milk,104.37,Summer,0.7
+2024-26,Cooking Oil,382.28,Summer,0.77
+2024-26,Tea,737.97,Summer,0.63
+2024-26,Soap,99.73,Summer,0.75
+2024-27,Tomato,99.82,Summer,0.71
+2024-27,Onion,69.34,Summer,0.71
+2024-27,Potato,50.7,Summer,0.71
+2024-27,Apple,154.29,Summer,0.88
+2024-27,Rice,160.13,Summer,0.86
+2024-27,Wheat Flour,135.74,Summer,0.91
+2024-27,Sugar,126.08,Summer,0.88
+2024-27,Eggs,203.16,Summer,0.77
+2024-27,Chicken,299.56,Summer,0.87
+2024-27,Milk,148.01,Summer,0.96
+2024-27,Cooking Oil,604.15,Summer,1
+2024-27,Tea,1222.95,Summer,0.94
+2024-27,Soap,61.2,Summer,0.64
+2024-28,Tomato,105.26,Summer,0.73
+2024-28,Onion,103.06,Summer,1
+2024-28,Potato,38.12,Summer,0.62
+2024-28,Apple,118.43,Summer,0.74
+2024-28,Rice,202.38,Summer,0.83
+2024-28,Wheat Flour,72.63,Summer,0.61
+2024-28,Sugar,142.01,Summer,0.85
+2024-28,Eggs,244.21,Summer,0.85
+2024-28,Chicken,392.12,Summer,0.83
+2024-28,Milk,136.12,Summer,0.78
+2024-28,Cooking Oil,438.57,Summer,0.76
+2024-28,Tea,1182.34,Summer,0.97
+2024-28,Soap,99.54,Summer,0.81
+2024-29,Tomato,83.3,Summer,0.62
+2024-29,Onion,74.61,Summer,0.87
+2024-29,Potato,58.44,Summer,0.67
+2024-29,Apple,171.48,Summer,0.88
+2024-29,Rice,148.36,Summer,0.66
+2024-29,Wheat Flour,128.48,Summer,0.84
+2024-29,Sugar,125.7,Summer,0.87
+2024-29,Eggs,213.45,Summer,0.67
+2024-29,Chicken,446.66,Summer,0.92
+2024-29,Milk,127.54,Summer,0.81
+2024-29,Cooking Oil,397.31,Summer,0.83
+2024-29,Tea,1182.14,Summer,0.97
+2024-29,Soap,83,Summer,0.62
+2024-30,Tomato,85.06,Summer,0.77
+2024-30,Onion,92.37,Summer,0.95
+2024-30,Potato,52.89,Summer,0.68
+2024-30,Apple,153.66,Summer,0.92
+2024-30,Rice,149.88,Summer,0.61
+2024-30,Wheat Flour,132.2,Summer,0.79
+2024-30,Sugar,99.53,Summer,0.62
+2024-30,Eggs,274.03,Summer,0.93
+2024-30,Chicken,453.84,Summer,0.98
+2024-30,Milk,93.88,Summer,0.68
+2024-30,Cooking Oil,380.51,Summer,0.79
+2024-30,Tea,698.5,Summer,0.66
+2024-30,Soap,123.1,Summer,0.9
+2024-31,Tomato,109.92,Summer,0.92
+2024-31,Onion,61.41,Summer,0.72
+2024-31,Potato,48.71,Summer,0.74
+2024-31,Apple,126.52,Summer,0.63
+2024-31,Rice,139.71,Summer,0.74
+2024-31,Wheat Flour,102.91,Summer,0.66
+2024-31,Sugar,115.1,Summer,0.83
+2024-31,Eggs,188.45,Summer,0.65
+2024-31,Chicken,390.71,Summer,0.85
+2024-31,Milk,123.31,Summer,0.8
+2024-31,Cooking Oil,450.63,Summer,0.93
+2024-31,Tea,909.55,Summer,0.77
+2024-31,Soap,107.02,Summer,0.87
+2024-32,Tomato,125.8,Summer,0.94
+2024-32,Onion,91.23,Summer,1
+2024-32,Potato,58.75,Summer,0.75
+2024-32,Apple,143.65,Summer,0.8
+2024-32,Rice,211.5,Summer,0.94
+2024-32,Wheat Flour,99.81,Summer,0.73
+2024-32,Sugar,135,Summer,0.9
+2024-32,Eggs,194.32,Summer,0.67
+2024-32,Chicken,409.81,Summer,0.83
+2024-32,Milk,124.35,Summer,0.82
+2024-32,Cooking Oil,449.73,Summer,0.86
+2024-32,Tea,709.57,Summer,0.71
+2024-32,Soap,73.47,Summer,0.67
+2024-33,Tomato,139.46,Summer,0.99
+2024-33,Onion,67.42,Summer,0.66
+2024-33,Potato,41.94,Summer,0.63
+2024-33,Apple,171.05,Summer,0.94
+2024-33,Rice,159.86,Summer,0.69
+2024-33,Wheat Flour,121.09,Summer,0.95
+2024-33,Sugar,121.62,Summer,0.95
+2024-33,Eggs,234.41,Summer,0.85
+2024-33,Chicken,324.96,Summer,0.74
+2024-33,Milk,109.23,Summer,0.79
+2024-33,Cooking Oil,461.64,Summer,0.96
+2024-33,Tea,889.07,Summer,0.79
+2024-33,Soap,97.16,Summer,0.77
+2024-34,Tomato,122.75,Summer,1
+2024-34,Onion,72.99,Summer,0.67
+2024-34,Potato,43.7,Summer,0.68
+2024-34,Apple,162.92,Summer,0.96
+2024-34,Rice,150.73,Summer,0.8
+2024-34,Wheat Flour,114.62,Summer,0.66
+2024-34,Sugar,101.76,Summer,0.78
+2024-34,Eggs,198.5,Summer,0.71
+2024-34,Chicken,287.71,Summer,0.75
+2024-34,Milk,123.18,Summer,0.65
+2024-34,Cooking Oil,410.06,Summer,0.69
+2024-34,Tea,1082.89,Summer,0.75
+2024-34,Soap,67.68,Summer,0.61
+2024-35,Tomato,98.34,Autumn,0.69
+2024-35,Onion,54.56,Autumn,0.61
+2024-35,Potato,57.21,Autumn,0.71
+2024-35,Apple,172.7,Autumn,0.87
+2024-35,Rice,222.01,Autumn,0.95
+2024-35,Wheat Flour,113.96,Autumn,0.71
+2024-35,Sugar,134.98,Autumn,0.72
+2024-35,Eggs,140.03,Autumn,0.63
+2024-35,Chicken,376.83,Autumn,0.93
+2024-35,Milk,126.67,Autumn,0.67
+2024-35,Cooking Oil,299.71,Autumn,0.64
+2024-35,Tea,913.61,Autumn,0.84
+2024-35,Soap,73.22,Autumn,0.79
+2024-36,Tomato,117.87,Autumn,0.9
+2024-36,Onion,101.1,Autumn,0.93
+2024-36,Potato,43.95,Autumn,0.62
+2024-36,Apple,186.83,Autumn,0.95
+2024-36,Rice,238.5,Autumn,0.96
+2024-36,Wheat Flour,84.4,Autumn,0.68
+2024-36,Sugar,114.2,Autumn,0.74
+2024-36,Eggs,211.83,Autumn,0.89
+2024-36,Chicken,272.18,Autumn,0.72
+2024-36,Milk,128.69,Autumn,0.77
+2024-36,Cooking Oil,341.79,Autumn,0.65
+2024-36,Tea,1015.24,Autumn,0.89
+2024-36,Soap,125.51,Autumn,0.97
+2024-37,Tomato,130.24,Autumn,0.96
+2024-37,Onion,65.14,Autumn,0.73
+2024-37,Potato,58.07,Autumn,0.79
+2024-37,Apple,179.32,Autumn,0.99
+2024-37,Rice,170.33,Autumn,0.86
+2024-37,Wheat Flour,94.37,Autumn,0.64
+2024-37,Sugar,133.88,Autumn,0.98
+2024-37,Eggs,259.54,Autumn,0.99
+2024-37,Chicken,219.57,Autumn,0.62
+2024-37,Milk,138.36,Autumn,0.78
+2024-37,Cooking Oil,381,Autumn,0.83
+2024-37,Tea,1053.21,Autumn,0.93
+2024-37,Soap,96.85,Autumn,0.75
+2024-38,Tomato,87.37,Autumn,0.73
+2024-38,Onion,56.2,Autumn,0.69
+2024-38,Potato,62.65,Autumn,0.92
+2024-38,Apple,141.9,Autumn,0.72
+2024-38,Rice,156.67,Autumn,0.65
+2024-38,Wheat Flour,91.35,Autumn,0.61
+2024-38,Sugar,119.56,Autumn,0.76
+2024-38,Eggs,230.87,Autumn,0.82
+2024-38,Chicken,265.2,Autumn,0.63
+2024-38,Milk,163.49,Autumn,0.98
+2024-38,Cooking Oil,367.62,Autumn,0.63
+2024-38,Tea,952.49,Autumn,0.93
+2024-38,Soap,103.02,Autumn,0.84
+2024-39,Tomato,78.01,Autumn,0.74
+2024-39,Onion,76.06,Autumn,0.87
+2024-39,Potato,47.56,Autumn,0.67
+2024-39,Apple,156.38,Autumn,0.93
+2024-39,Rice,182.38,Autumn,0.95
+2024-39,Wheat Flour,112.68,Autumn,0.69
+2024-39,Sugar,118.08,Autumn,0.69
+2024-39,Eggs,285.78,Autumn,0.97
+2024-39,Chicken,352.09,Autumn,0.76
+2024-39,Milk,135.15,Autumn,0.81
+2024-39,Cooking Oil,570.95,Autumn,0.93
+2024-39,Tea,1070.73,Autumn,0.93
+2024-39,Soap,91.55,Autumn,0.75
+2024-40,Tomato,94.48,Autumn,0.7
+2024-40,Onion,72.13,Autumn,0.72
+2024-40,Potato,52.98,Autumn,0.73
+2024-40,Apple,147.91,Autumn,0.74
+2024-40,Rice,204.93,Autumn,0.92
+2024-40,Wheat Flour,112.98,Autumn,0.71
+2024-40,Sugar,117.37,Autumn,0.61
+2024-40,Eggs,195.09,Autumn,0.65
+2024-40,Chicken,292.13,Autumn,0.67
+2024-40,Milk,132.74,Autumn,0.82
+2024-40,Cooking Oil,336.85,Autumn,0.66
+2024-40,Tea,1133.07,Autumn,0.96
+2024-40,Soap,90.29,Autumn,0.76
+2024-41,Tomato,87.83,Autumn,0.69
+2024-41,Onion,78.04,Autumn,0.93
+2024-41,Potato,59.74,Autumn,0.77
+2024-41,Apple,84.67,Autumn,0.62
+2024-41,Rice,171.96,Autumn,0.83
+2024-41,Wheat Flour,114.4,Autumn,0.91
+2024-41,Sugar,119.09,Autumn,0.76
+2024-41,Eggs,256.15,Autumn,0.82
+2024-41,Chicken,368.8,Autumn,0.96
+2024-41,Milk,129.58,Autumn,0.82
+2024-41,Cooking Oil,514.44,Autumn,0.92
+2024-41,Tea,752.29,Autumn,0.69
+2024-41,Soap,106.84,Autumn,0.95
+2024-42,Tomato,57.7,Autumn,0.68
+2024-42,Onion,65.59,Autumn,0.76
+2024-42,Potato,52.35,Autumn,0.66
+2024-42,Apple,132.32,Autumn,0.66
+2024-42,Rice,127.63,Autumn,0.71
+2024-42,Wheat Flour,80.61,Autumn,0.62
+2024-42,Sugar,96.5,Autumn,0.76
+2024-42,Eggs,200.9,Autumn,0.7
+2024-42,Chicken,431.15,Autumn,0.96
+2024-42,Milk,106.3,Autumn,0.7
+2024-42,Cooking Oil,541.97,Autumn,0.93
+2024-42,Tea,788.45,Autumn,0.66
+2024-42,Soap,89.12,Autumn,0.74
+2024-43,Tomato,115.8,Autumn,1
+2024-43,Onion,88.53,Autumn,1
+2024-43,Potato,62.68,Autumn,0.72
+2024-43,Apple,141.77,Autumn,0.85
+2024-43,Rice,151.52,Autumn,0.83
+2024-43,Wheat Flour,107.22,Autumn,0.68
+2024-43,Sugar,139.21,Autumn,0.82
+2024-43,Eggs,161.27,Autumn,0.61
+2024-43,Chicken,306.64,Autumn,0.7
+2024-43,Milk,121.52,Autumn,0.64
+2024-43,Cooking Oil,455.57,Autumn,0.87
+2024-43,Tea,1055.21,Autumn,0.84
+2024-43,Soap,96.51,Autumn,0.71
+2024-44,Tomato,84.13,Autumn,0.69
+2024-44,Onion,88.97,Autumn,0.9
+2024-44,Potato,42.43,Autumn,0.62
+2024-44,Apple,115.25,Autumn,0.62
+2024-44,Rice,176.56,Autumn,0.74
+2024-44,Wheat Flour,108.45,Autumn,0.79
+2024-44,Sugar,77.34,Autumn,0.63
+2024-44,Eggs,205.5,Autumn,0.67
+2024-44,Chicken,359.77,Autumn,0.87
+2024-44,Milk,140.75,Autumn,0.8
+2024-44,Cooking Oil,261.91,Autumn,0.64
+2024-44,Tea,1047.9,Autumn,0.76
+2024-44,Soap,101.32,Autumn,0.89
+2024-45,Tomato,112.63,Autumn,0.96
+2024-45,Onion,87.63,Autumn,0.87
+2024-45,Potato,41.42,Autumn,0.6
+2024-45,Apple,130.9,Autumn,0.69
+2024-45,Rice,149.38,Autumn,0.61
+2024-45,Wheat Flour,115.26,Autumn,0.73
+2024-45,Sugar,110.66,Autumn,0.65
+2024-45,Eggs,226.34,Autumn,0.93
+2024-45,Chicken,309.11,Autumn,0.76
+2024-45,Milk,150.24,Autumn,0.91
+2024-45,Cooking Oil,340.9,Autumn,0.61
+2024-45,Tea,1123.49,Autumn,0.94
+2024-45,Soap,81.09,Autumn,0.63
+2024-46,Tomato,83.98,Autumn,0.75
+2024-46,Onion,62.07,Autumn,0.64
+2024-46,Potato,48.81,Autumn,0.64
+2024-46,Apple,178.92,Autumn,1
+2024-46,Rice,189.35,Autumn,0.92
+2024-46,Wheat Flour,114.36,Autumn,0.87
+2024-46,Sugar,119.76,Autumn,0.73
+2024-46,Eggs,188.95,Autumn,0.83
+2024-46,Chicken,407.88,Autumn,0.88
+2024-46,Milk,148.85,Autumn,0.89
+2024-46,Cooking Oil,421.73,Autumn,0.67
+2024-46,Tea,811.62,Autumn,0.68
+2024-46,Soap,110.33,Autumn,0.99
+2024-47,Tomato,97.07,Autumn,0.82
+2024-47,Onion,52.3,Autumn,0.62
+2024-47,Potato,46.88,Autumn,0.69
+2024-47,Apple,177.33,Autumn,0.93
+2024-47,Rice,151.44,Autumn,0.7
+2024-47,Wheat Flour,127.39,Autumn,0.85
+2024-47,Sugar,132.17,Autumn,0.86
+2024-47,Eggs,186.26,Autumn,0.68
+2024-47,Chicken,436.75,Autumn,0.96
+2024-47,Milk,97.52,Autumn,0.73
+2024-47,Cooking Oil,454.42,Autumn,0.76
+2024-47,Tea,1015.93,Autumn,0.78
+2024-47,Soap,74.27,Autumn,0.65
+2024-48,Tomato,120.72,Winter,0.99
+2024-48,Onion,70.16,Winter,0.8
+2024-48,Potato,52.58,Winter,0.86
+2024-48,Apple,143.64,Winter,0.95
+2024-48,Rice,150.64,Winter,0.75
+2024-48,Wheat Flour,105.86,Winter,0.62
+2024-48,Sugar,165.21,Winter,0.98
+2024-48,Eggs,194.34,Winter,0.79
+2024-48,Chicken,330.85,Winter,0.83
+2024-48,Milk,105.1,Winter,0.76
+2024-48,Cooking Oil,491.63,Winter,0.89
+2024-48,Tea,1135.57,Winter,0.83
+2024-48,Soap,104,Winter,0.92
+2024-49,Tomato,120.45,Winter,0.96
+2024-49,Onion,64.41,Winter,0.72
+2024-49,Potato,59.02,Winter,0.84
+2024-49,Apple,166.87,Winter,0.98
+2024-49,Rice,162.11,Winter,0.63
+2024-49,Wheat Flour,124.73,Winter,0.85
+2024-49,Sugar,146.76,Winter,0.98
+2024-49,Eggs,235.65,Winter,0.95
+2024-49,Chicken,372.62,Winter,0.97
+2024-49,Milk,129.6,Winter,0.79
+2024-49,Cooking Oil,441.18,Winter,0.86
+2024-49,Tea,757.95,Winter,0.62
+2024-49,Soap,83.7,Winter,0.69
+2024-50,Tomato,77.75,Winter,0.62
+2024-50,Onion,71.61,Winter,0.74
+2024-50,Potato,64.69,Winter,0.82
+2024-50,Apple,175.64,Winter,0.84
+2024-50,Rice,230.39,Winter,0.98
+2024-50,Wheat Flour,119.88,Winter,0.85
+2024-50,Sugar,105.9,Winter,0.67
+2024-50,Eggs,221.76,Winter,0.81
+2024-50,Chicken,347.23,Winter,0.87
+2024-50,Milk,94.42,Winter,0.67
+2024-50,Cooking Oil,367.4,Winter,0.75
+2024-50,Tea,901.64,Winter,0.79
+2024-50,Soap,112.43,Winter,0.94
+2024-51,Tomato,62.18,Winter,0.63
+2024-51,Onion,78.65,Winter,0.83
+2024-51,Potato,53.06,Winter,0.62
+2024-51,Apple,104.75,Winter,0.62
+2024-51,Rice,124.16,Winter,0.62
+2024-51,Wheat Flour,146.38,Winter,0.94
+2024-51,Sugar,90.25,Winter,0.65
+2024-51,Eggs,186.71,Winter,0.81
+2024-51,Chicken,392.28,Winter,0.87
+2024-51,Milk,127.92,Winter,0.66
+2024-51,Cooking Oil,232.04,Winter,0.6
+2024-51,Tea,1038.49,Winter,0.86
+2024-51,Soap,57.86,Winter,0.61
